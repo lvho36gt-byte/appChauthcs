@@ -1,0 +1,6 @@
+{
+  "name": "VẬT LÍ THỰC CHỨNG AI - Physics Evidence Lab",
+  "description": "Nền tảng Vật lí Thực chứng AI THCS - Thí nghiệm thật, Dữ liệu thật, Khám phá cùng AI - Cô Đỗ Thị Giáng Châu, THCS Chu Văn An, Đồng Nai",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
